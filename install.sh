@@ -10,7 +10,7 @@ chmod +x ts
 get() {
 rm -fr OKEN.lua
 rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/OKENTAEM/ OKEN/master/OKEN.lua"
+wget "https://raw.githubusercontent.com/OKENTAEM/OKEN/master/OKEN.lua"
 lua start.lua
 }
 installall(){
